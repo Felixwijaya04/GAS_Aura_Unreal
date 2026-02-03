@@ -7,7 +7,7 @@
 UAuraAttributeSet::UAuraAttributeSet()
 {
 	// Macro functions set by property name
-	InitHealth(100.0f);
+	InitHealth(50.0f);
 	InitMaxHealth(100.0f);
 	InitMana(75.0f);
 	InitMaxMana(75.0f);
